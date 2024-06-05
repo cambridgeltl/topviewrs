@@ -30,5 +30,12 @@ Coming soon.
 ## Citation
 If you find TopViewRS useful:
 ```bibtex
-Coming soon
+@misc{li2024topviewrs,
+      title={TopViewRS: Vision-Language Models as Top-View Spatial Reasoners}, 
+      author={Chengzu Li and Caiqi Zhang and Han Zhou and Nigel Collier and Anna Korhonen and Ivan Vulić},
+      year={2024},
+      eprint={2406.02537},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
