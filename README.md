@@ -4,11 +4,11 @@
   <h3 align="center">A novel evaluation benchmark for spatial reasoning of vision-language models.</h3>
   
   <p align="center">  
-    <a href="arxiv_placeholder">📄 [Arxiv]</a>
+    <a href="https://arxiv.org/abs/2406.02537">📄 [Arxiv]</a>
     ·
     <a href="https://topviewrs.github.io/">🕸️ [Project Page]</a>
     ·
-    <a href="dataset_placeholder">🤗 [Data]</a>
+    <a href="dataset_placeholder">🤗 [Data(Coming Soon)]</a>
     
   </p>
 </p>
