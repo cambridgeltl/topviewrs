@@ -22,7 +22,7 @@
 ![sicl](figs/main_fig.png)
 
 ## Dataset
-Coming soon. Stay tuned :)
+Part of the benchmark is now available on Huggingface: [https://huggingface.co/datasets/chengzu/topviewrs](https://huggingface.co/datasets/chengzu/topviewrs).
 
 ## Code
 Coming soon. 
