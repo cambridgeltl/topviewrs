@@ -8,7 +8,7 @@
     ·
     <a href="https://topviewrs.github.io/">🕸️ [Project Page]</a>
     ·
-    <a href="dataset_placeholder">🤗 [Data(Coming Soon)]</a>
+    <a href="https://huggingface.co/datasets/chengzu/topviewrs">🤗 [Data]</a>
     
   </p>
 </p>
