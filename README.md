@@ -22,10 +22,8 @@
 ![sicl](figs/main_fig.png)
 
 ## Dataset
-Part of the benchmark is now available on Huggingface: [https://huggingface.co/datasets/chengzu/topviewrs](https://huggingface.co/datasets/chengzu/topviewrs).
+All benchmark is now available on Huggingface: [https://huggingface.co/datasets/chengzu/topviewrs](https://huggingface.co/datasets/chengzu/topviewrs).
 
-## Code
-Coming soon. 
 
 ## Citation
 If you find TopViewRS useful:
